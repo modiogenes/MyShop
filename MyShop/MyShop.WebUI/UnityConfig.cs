@@ -1,9 +1,10 @@
-using System;
 using MyShop.Core.Contracts;
 using MyShop.Core.Models;
 using MyShop.DataAccess.InMemory;
 using MyShop.DataAccess.SQL;
 using MyShop.Services;
+using System;
+
 using Unity;
 
 namespace MyShop.WebUI
